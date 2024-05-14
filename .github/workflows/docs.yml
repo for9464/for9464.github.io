@@ -50,5 +50,15 @@ jobs:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         
-      - name: 在生成的gh-pages分支中添加CNAME文件
+      # Add the steps to add CNAME file to gh-pages branch
+      - name: Add CNAME file
         run: echo "blog.mioe.me" > docs/.vuepress/dist/CNAME
+
+      # Push the changes to gh-pages branch
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "for9464@qq.com"
+          git config --local user.name "for9464"
+          git add docs/.vuepress/dist/CNAME
+          git commit -m "Add CNAME file for custom domain"
+          git push origin HEAD:gh-pages
