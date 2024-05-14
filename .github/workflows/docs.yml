@@ -59,7 +59,6 @@ jobs:
         run: |
           git config --local user.email "for9464@qq.com"
           git config --local user.name "for9464"
-          git pull
-          git add docs/.vuepress/dist/CNAME
+          git add .
           git commit -m "Add CNAME file"
-          git push origin HEAD:gh-pages
+          git push origin main:gh-pages
