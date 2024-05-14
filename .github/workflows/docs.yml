@@ -49,3 +49,6 @@ jobs:
         env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
+        
+      - name: 添加CNAME文件
+        run: echo "blog.for9464.com" > docs/.vuepress/dist/CNAME
