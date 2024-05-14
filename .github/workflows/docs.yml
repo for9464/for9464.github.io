@@ -62,4 +62,4 @@ jobs:
           git add .
           git commit -m "Add CNAME file"
           git pull
-          git push origin main:gh-pages
+          git push origin main:gh-pages -force
