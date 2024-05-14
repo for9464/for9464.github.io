@@ -61,4 +61,5 @@ jobs:
           git config --local user.name "for9464"
           git add .
           git commit -m "Add CNAME file"
+          git pull
           git push origin main:gh-pages
