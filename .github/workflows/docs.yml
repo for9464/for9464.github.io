@@ -50,16 +50,3 @@ jobs:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         
-      # Add the steps to add CNAME file to gh-pages branch
-      - name: Add CNAME file
-        run: echo "blog.mioe.me" > docs/.vuepress/dist/CNAME
-
-      # Push the changes to gh-pages branch
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "for9464@qq.com"
-          git config --local user.name "for9464"
-          git add .
-          git commit -m "Add CNAME file"
-          git pull origin gh-pages
-          git push origin main:gh-pages --force
