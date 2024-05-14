@@ -12,7 +12,7 @@ export default defineUserConfig({
     avatar: {
       url: 'https://q1.qlogo.cn/g?b=qq&nk=2099311682&s=100',
       name: 'only9464',
-      description: '无话可说（）',
+      description: '欢迎来到我的注水区（bushi）',
       circle: true, // 是否为圆形头像
     },
     navbar: [
