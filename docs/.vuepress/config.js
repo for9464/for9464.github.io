@@ -3,7 +3,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/blogs/',
+  base: '/',
   title: '沙漠渔夫',
   // 请不要忘记设置默认语言
   lang: 'zh-CN',
@@ -16,8 +16,8 @@ export default defineUserConfig({
       circle: true, // 是否为圆形头像
     },
     navbar: [
-      { text: '首页', link: '/11', icon: 'material-symbols:home-outline' },
-      { text: '博客', link: '/', icon: 'material-symbols:article-outline' },
+      { text: '首页', link: '/', icon: 'material-symbols:home-outline' },
+      { text: '博客', link: '/blog/', icon: 'material-symbols:article-outline' },
     ]
   }),
   
