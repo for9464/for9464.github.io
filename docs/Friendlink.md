@@ -29,4 +29,94 @@ list:
     link: https://github.com/penguinway
     avatar: https://avatars.githubusercontent.com/u/50520501
     desc: https://www.penguinway.space/
+  -
+    name: xhyu61
+    link: https://github.com/xhyu61
+    avatar: https://avatars.githubusercontent.com/u/105192438
+    desc: https://xhyu61.github.io
+  -
+    name: yao9e
+    link: https://github.com/yao9e
+    avatar: https://avatars.githubusercontent.com/u/128436639
+    desc: null
+  -
+    name: BOBQWERA
+    link: https://github.com/BOBQWERA
+    avatar: https://avatars.githubusercontent.com/u/34422311
+    desc: null
+  -
+    name: Jerry
+    link: https://github.com/Holit
+    avatar: https://avatars.githubusercontent.com/u/20926583
+    desc: null
+  -
+    name: debidong
+    link: https://github.com/debidong
+    avatar: https://avatars.githubusercontent.com/u/86307842
+    desc: null
+  -
+    name: jht3QAQ
+    link: https://github.com/jht3QAQ
+    avatar: https://avatars.githubusercontent.com/u/25195987
+    desc: null
+  -
+    name: Xianyv Zhang
+    link: https://github.com/zhangxianyv
+    avatar: https://avatars.githubusercontent.com/u/112563784
+    desc: null
+  -
+    name: wfloveiu
+    link: https://github.com/wfloveiu
+    avatar: https://avatars.githubusercontent.com/u/112073661
+    desc: null
+  -
+    name: coolcoolのyisuanwang
+    link: https://github.com/yisuanwang
+    avatar: https://avatars.githubusercontent.com/u/77476098
+    desc: https://yisuanwang.github.io
+  -
+    name: Zhitong Zhou
+    link: https://github.com/Poseizhou
+    avatar: https://avatars.githubusercontent.com/u/135787341
+    desc: null
+  -
+    name: Joyition
+    link: https://github.com/FidStyle
+    avatar: https://avatars.githubusercontent.com/u/115857087
+    desc: null
+  -
+    name: Liuhaotian2004
+    link: https://github.com/Liuhaotian2004
+    avatar: https://avatars.githubusercontent.com/u/129146258
+    desc: null
+  -
+    name: MadLongTom
+    link: https://github.com/MadLongTom
+    avatar: https://avatars.githubusercontent.com/u/36219016
+    desc: null
+  -
+    name: Chenqingsui
+    link: https://github.com/Chenqingsu1
+    avatar: https://avatars.githubusercontent.com/u/142018423
+    desc: null
+  -
+    name: tclzz
+    link: https://github.com/tclzz
+    avatar: https://avatars.githubusercontent.com/u/146205879
+    desc: null
+  -
+    name: HEUfcy
+    link: https://github.com/HEUfcy
+    avatar: https://avatars.githubusercontent.com/u/138841102
+    desc: null
+  -
+    name: DaibaNana
+    link: https://github.com/iEnter12
+    avatar: https://avatars.githubusercontent.com/u/131680239
+    desc: null
+  -
+    name: Over8888
+    link: https://github.com/Over8888
+    avatar: https://avatars.githubusercontent.com/u/139033561
+    desc: null
 ---
