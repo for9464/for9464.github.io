@@ -1,5 +1,5 @@
 ---
-title: Linux011操作系统实验vi编辑器\逃课\教程
+title: Linux011操作系统实验vi编辑器逃课教程()
 createTime: 2024/10/30 11:45:14
 author: only9464
 tags:
