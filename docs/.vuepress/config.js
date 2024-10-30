@@ -34,39 +34,6 @@ export default defineUserConfig({
         category: 'General', 
         categoryId: 'DIC_kwDOL8dHzc4CfaCB', 
       },
-      // watermark: {
-      //   watermarkOptions: {
-      //     content: '自定义文字',
-      //     fontColor: '#fff', // 文字颜色
-      //   }
-      // }
-      // search: {
-      //   // more options
-      // },
-      // docsearch: {
-      //   // more options
-      //   appId: 'YOUR_APP_ID', 
-      //   apiKey: 'YOUR_API_KEY', 
-      //   indexName: 'YOUR_INDEX_NAME', 
-      // },
-      // encrypt: {//废弃
-      //   // 部分加密
-      //   rules: {
-      //     // // 可以是 md 文件的相对路径，对该文件加密
-      //     // '前端/基础.md': '123456',
-      //     // // 可以是 文件夹的路径，对该目录下所有文章加密
-      //     // '/notes/vuepress-theme-plume/': '123456',
-      //     // // 可以是 访问地址的请求路径，对该访问路径下所有文章加密
-      //     // '/vuepress-theme-plume/': '123456',
-      //     // // 可以是 具体的某个页面的请求路径，对该页面加密
-      //     // '/article/f8dnci3/': '123456',
-      //     // // 如果是 `^` 开头，则匹配该正则表达式的页面也会加密
-      //     // '^/(a|b)/': '123456',
-
-      //     // dirsearch
-      //     // '/article/ve530z8f/': '123456',
-      //   }
-      // },
     },
   }),
 
