@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesert_fisher=self.webpackChunkdesert_fisher||[]).push([[2859],{2859:(e,r,s)=>{s.d(r,{createArchitectureServices:()=>c.b});var c=s(2733);s(6045),s(3985),s(3800),s(4768),s(4758)}}]);

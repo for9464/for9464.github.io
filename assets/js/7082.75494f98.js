@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesert_fisher=self.webpackChunkdesert_fisher||[]).push([[7082],{7082:(e,s,r)=>{r.d(s,{createInfoServices:()=>c.b});var c=r(2873);r(6045),r(3985),r(3800),r(4768),r(4758)}}]);
