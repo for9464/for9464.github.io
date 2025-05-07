@@ -22,7 +22,7 @@ config:
   #         link: https://github.com/only9464
   # -
   #   type: banner
-  #   banner: https://ghproxy.mioe.me/https://raw.githubusercontent.com/only9464/only9464.github.io/refs/heads/gh-pages/img/background.jpg
+  #   banner: https://ghproxy.529464.xyz/https://raw.githubusercontent.com/only9464/only9464.github.io/refs/heads/gh-pages/img/background.jpg
   #   bannerMask:
   #     light: 0.01
   #     dark: 0.01
@@ -66,7 +66,7 @@ config:
       -
         title: 我有过哪些经历？
         icon: ⚖
-        details: 一小部分经历可供[查看](https://mioe.me/)
+        details: 一小部分经历可供[查看](https://529464.xyz/)
       -
         title: 我想做什么？
         icon: 📦

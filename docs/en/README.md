@@ -21,7 +21,7 @@ config:
           link: https://github.com/only9464
   -
     type: banner
-    banner: https://ghproxy.mioe.me/https://raw.githubusercontent.com/only9464/only9464.github.io/refs/heads/gh-pages/img/background.jpg
+    banner: https://ghproxy.529464.xyz/https://raw.githubusercontent.com/only9464/only9464.github.io/refs/heads/gh-pages/img/background.jpg
     bannerMask:
       light: 0.01
       dark: 0.01
