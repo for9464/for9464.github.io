@@ -40,7 +40,7 @@ export default defineUserConfig({
       tagUrlPattern: ':repo/releases/tag/:tag'
     },
     // 添加您的部署域名
-    hostname: 'blog.mioe.me',
+    hostname: 'blog.529464.xyz',
 
     plugins: {
       comment: {
